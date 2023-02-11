@@ -1,1 +1,40 @@
-# Paczka-JailBreak
+## Paczka JailBreak
+
+------
+
+Pluginy
+```
+;=====================PLuginy wazne==================
+jail_api_jailbreak.amxx
+cs_player_models_api.amxx
+jail_team.amxx
+jail_menu.amxx
+jail_zyczenia.amxx
+jail_stolice.amxx
+jail_przyslowia.amxx
+jail_sklep.amxx
+jail_czapka.amxx
+jail_skiny.amxx
+jail_ruletka.amxx
+jail_muzyka.amxx
+jail_svip_vip.amxx
+jail_topka.amxx
+jail_ozyw.amxx
+
+;=====================Zabawy=================
+
+jail_freeday.amxx	;zabawa wymagana
+jail_kd.amxx
+jail_ganiany.amxx
+jail_polowanie.amxx
+
+;=====================Dodatki==================
+
+jail_topka.amxx
+jail_szlugi.amxx
+jail_spadochron.amxx
+jail_mapchoser.amxx
+jail_reklamy.amxx
+```
+
+------
