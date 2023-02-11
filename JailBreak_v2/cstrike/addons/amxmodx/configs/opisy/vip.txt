@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+        
+    <style>
+        body {
+            background-color: #000000;
+            color: white;
+            font-family: Verdana;
+        }
+    </style>
+        
+</head>
+<body>
+    <h1>Co dostaje VIP?</h1>
+    <ul>
+        <li>Status VIP w tabeli wynikow</li>
+        <li>Prefix [VIP] na czacie</li>
+	    <li>180 HP jako klawisz, 130 jako wiezien</li>	
+        <li>150 AP jako klawisz, 100 jako wiezien</li>	
+        <li>Nie losuje negatywnych losow w ruletce</li>
+        <li>Dodatkowy 1 skoki w powietrzu</li>
+    </ul>
+</body>
+</html>

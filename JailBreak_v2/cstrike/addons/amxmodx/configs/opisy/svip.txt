@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+        
+    <style>
+        body {
+            background-color: #000000;
+            color: white;
+            font-family: Verdana;
+        }
+    </style>
+        
+</head>
+<body>
+    <h1>Co dostaje SVIP?</h1>
+    <ul>
+        <li>AutoBH na 15 sek. (/bh)</li>
+        <li>200 HP jako klawisz, 170 jako wiezien</li>
+        <li>150 AP jako klawisz, 100 jako wiezien</li>		
+        <li>Nie losuje negatywnych ani pustych losow w ruletce</li>
+        <li>prefix [SVIP] na czacie</li>
+        <li>status VIP w tabeli</li>
+        <li>informacja o wejsciu SVIP'a na serwer</li>
+        <li>dodatkowe 2 skoki w powietrzu</li>
+    </ul>
+</body>
+</html>
